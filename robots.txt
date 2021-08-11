@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://vivchar.tom.ru/sitemap.xml
